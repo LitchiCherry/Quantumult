@@ -25,7 +25,7 @@ body['data']['homeBarPage'] = [
         "nativeAlias" : "vip",
         "darkSelImg" : "http://img.rr.tv/img/img/20211013/o_ad54fb0336764d38910304488804f2a1.png",
         "darkSelPag" : "http://img.rr.tv/barSelpag/20210310/o_1615344145409.pag",
-        "name" : "VIP"
+        "name" : "会员"
       }
 ]
 body = JSON.stringify(body)
