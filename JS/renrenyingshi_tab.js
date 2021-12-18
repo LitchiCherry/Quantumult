@@ -22,7 +22,7 @@ body['data']['homeBarPage'] = [
         "selImg" : "",
         "unselImg" : "",
         "index" : 2,
-        "nativeAlias" : "",
+        "nativeAlias" : "amwayVideo",
         "darkSelImg" : "",
         "darkSelPag" : "",
         "name" : ""
@@ -48,7 +48,7 @@ body['data']['homeBarPage'] = [
         "selImg" : "",
         "unselImg" : "",
         "index" : 4,
-        "nativeAlias" : "",
+        "nativeAlias" : "community",
         "darkSelImg" : "",
         "darkSelPag" : "",
         "name" : ""
