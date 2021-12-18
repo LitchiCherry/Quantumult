@@ -42,65 +42,7 @@ body['data']['sections'] = [
               "sequence" : 3,                                                                                                        
               "name" : "其他",                                                                                                       
               "targetId" : "rrspjump://empty"                                                                                        
-            },                                                                                                                       
-            {                                                                                                                        
-              "id" : 4717,                                                                                                           
-              "sectionType" : "SINGLE_IMAGE",                                                                                        
-              "displayTitle" : "0",                                                                                                  
-              "startTime" : null,                                                                                                    
-              "position" : 23,                                                                                                       
-              "display" : null,                                                                                                      
-              "moreText" : "",                                                                                                       
-              "sectionContents" : [                                                                                                  
-                {                                                                                                                    
-                  "feeMode" : null,                                                                                                  
-                  "pictureHeight" : "686",                                                                                           
-                  "targetId" : "",                                                                                                   
-                  "id" : 2223,                                                                                                       
-                  "pictureWidth" : "2032",                                                                                           
-                  "title" : "魔丸赏推广",                                                                                            
-                  "targetType" : "H5",                                                                                               
-                  "sectionId" : 4717,                                                                                                
-                  "orderNum" : 1,                                                                                                    
-                  "subTitle" : null,                                                                                                 
-                  "icon" : ""                                                                                                        
-                }                                                                                                                    
-              ],                                                                                                                     
-              "endTime" : 1637222234,                                                                                                
-              "targetType" : null,                                                                                                   
-              "sequence" : 1,                                                                                                        
-              "name" : "魔丸赏ios",                                                                                                  
-              "targetId" : ""                                                                                                        
-            },                                                                                                                       
-            {                                                                                                                        
-              "id" : 4226,                                                                                                           
-              "sectionType" : "SINGLE_IMAGE",                                                                                        
-              "displayTitle" : "0",                                                                                                  
-              "startTime" : null,                                                                                                    
-              "position" : 23,                                                                                                       
-              "display" : null,                                                                                                      
-              "moreText" : "",                                                                                                       
-              "sectionContents" : [                                                                                                  
-                {                                                                                                                    
-                  "feeMode" : null,                                                                                                  
-                  "pictureHeight" : "0",                                                                                             
-                  "targetId" : "",                                                                                                   
-                  "id" : 175,                                                                                                        
-                  "pictureWidth" : "998",                                                                                            
-                  "title" : "活动推荐",                                                                                              
-                  "targetType" : "ASSIGN_PAGE",                                                                                      
-                  "sectionId" : 4226,                                                                                                
-                  "orderNum" : 1,                                                                                                    
-                  "subTitle" : null,                                                                                                 
-                  "icon" : ""                                                                                                        
-                }                                                                                                                    
-              ],                                                                                                                     
-              "endTime" : 1637222234,                                                                                                
-              "targetType" : null,                                                                                                   
-              "sequence" : 1,                                                                                                        
-              "name" : "活动推荐",                                                                                                   
-              "targetId" : null                                                                                                      
-            }                                                                                                                        
+            }                                                                                                                                                                                                                                            
 ]                                                                                                                                    
 body = JSON.stringify(body)                                                                                                          
 $done({ body })
