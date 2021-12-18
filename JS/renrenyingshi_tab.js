@@ -15,17 +15,17 @@ body['data']['homeBarPage'] = [
         "name" : "首页"
       },
       {
-        "selPag" : "http://img.rr.tv/barSelpag/20210310/o_1615344101761.pag",
+        "selPag" : "",
         "pageType" : 1,
-        "darkUnselImg" : "http://img.rr.tv/cover/20210310/o_1615344088886.png",
+        "darkUnselImg" : "",
         "webUrl" : "",
-        "selImg" : "http://img.rr.tv/cover/20210310/o_1615344085709.png",
-        "unselImg" : "http://img.rr.tv/cover/20210310/o_1615344087390.png",
+        "selImg" : "",
+        "unselImg" : "",
         "index" : 2,
-        "nativeAlias" : "amwayVideo",
-        "darkSelImg" : "http://img.rr.tv/cover/20210310/o_1615344091229.png",
-        "darkSelPag" : "http://img.rr.tv/barSelpag/20210310/o_1615344101664.pag",
-        "name" : "快看"
+        "nativeAlias" : "",
+        "darkSelImg" : "",
+        "darkSelPag" : "",
+        "name" : ""
       },
       {
         "selPag" : "http://img.rr.tv/barSelpag/20210310/o_1615344143099.pag",
@@ -41,17 +41,17 @@ body['data']['homeBarPage'] = [
         "name" : "VIP"
       },
       {
-        "selPag" : "http://img.rr.tv/other/other/20210914/o_4fd6087388814b48a171e8789ab8f3b1.pag",
+        "selPag" : "",
         "pageType" : 1,
-        "darkUnselImg" : "http://img.rr.tv/img/img/20211013/o_dd8bfbd83f0049b5adf4b0e2fcbafe24.png",
+        "darkUnselImg" : "",
         "webUrl" : "",
-        "selImg" : "http://img.rr.tv/img/img/20211013/o_2ededc9a9d6c4b818259ac0f72c1fcbb.png",
-        "unselImg" : "http://img.rr.tv/img/img/20211013/o_af287b5caf824367b5dd7435501f684e.png",
+        "selImg" : "",
+        "unselImg" : "",
         "index" : 4,
-        "nativeAlias" : "community",
-        "darkSelImg" : "http://img.rr.tv/img/img/20211013/o_48f63c0f4c9f459f94bf4f2429054180.png",
-        "darkSelPag" : "http://img.rr.tv/other/other/20210914/o_6bcf3d9a3ae640938884d1574a64f654.pag",
-        "name" : "广场"
+        "nativeAlias" : "",
+        "darkSelImg" : "",
+        "darkSelPag" : "",
+        "name" : ""
       },
       {
         "selPag" : "http://img.rr.tv/barSelpag/20210310/o_1615344153652.pag",
